@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">A109221258-0314</string>
+    <string name="input_name">輸入姓名</string>
+    <string name="send">送出</string>
+    <string name="show">顯示結果</string>
+    <style name="Base.Theme.EnterName" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.EnterName" parent="Base.Theme.EnterName"/>
+</resources>
