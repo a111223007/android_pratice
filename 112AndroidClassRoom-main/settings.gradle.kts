@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "LinearLayoutDemo"
 include(":app")
+include(":app")
  
