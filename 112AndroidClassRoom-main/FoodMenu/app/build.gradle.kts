@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.foodimgmenu_0502"
+    namespace = "com.example.foodmenu"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.foodimgmenu_0502"
+        applicationId = "com.example.foodmenu"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
